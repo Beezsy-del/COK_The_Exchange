@@ -31,7 +31,7 @@ npm run dev
 
 Open **http://127.0.0.1:5173** (or the local URL printed by Vite).
 
-For a presentation-ready production build:
+For a production build:
 
 ```sh
 npm run build
@@ -65,9 +65,8 @@ npm test
 - Match analytics, clean restart, a readable rules popup and responsive layouts.
 - 33 automated tests covering combat rules, boss behavior, status timing, deterministic replay, storage failures and stale timers.
 
-## Presentation and project notes
+## Project notes
 
-- [Three-minute demo guide](docs/DEMO.md)
 - [Current systems and architecture](docs/SYSTEMS.md)
 - [Further improvement plan](ROADMAP.md)
 - [Verification record](VERIFICATION.md)
