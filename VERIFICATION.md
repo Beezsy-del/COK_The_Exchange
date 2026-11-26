@@ -44,3 +44,5 @@ A browser-only one-health initial-state fixture was used to verify the offline r
 - All 33 automated tests passed, including deterministic replay across 300 seeded boss encounters, proc boundaries, freeze/burn/paralysis timing, hijacks, shield breaks, corrupt/blocked storage and stale duel timers.
 - Browser selection, Malakor entry, canvas rendering, speech bubbles and an available local English speech voice were checked. Full browser completion tests for every new boss remain a follow-up item in ROADMAP.md; the engine paths are covered by the automated suite.
 - The previous full-match browser results above describe the earlier single-boss build and are not a claim of full browser coverage for the expanded roster.
+
+The independent Antigravity review requested for the three-boss update timed out after ten minutes (`DEADLINE_EXCEEDED`) and produced no completed report. No independent passing review is claimed for this release. The 33 tests and production build above were executed locally and passed. Earlier completed static reviews apply only to the earlier scopes described above.
